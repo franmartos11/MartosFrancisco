@@ -12,7 +12,7 @@ export default function Posteos() {
   return (
     <div className='container'>
       {dato.map((item) => (
-        <Post item></Post>
+        <Post ></Post>
       ))}
     </div>
   )
